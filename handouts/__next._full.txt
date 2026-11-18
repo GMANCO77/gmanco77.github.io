@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"static/chunks/435-23b8fe5cc4f8abe0.js"
+3:"static/chunks/388-66c75c6c830110cb.js"
+4:"static/chunks/439-e887cc6f5b217087.js"
+5:"static/chunks/app/layout-ab69e38dad0db339.js"
+6:I[5554,["435","$2","388","$3","439","$4","177","$5"],"default"]
+7:I[7121,[],""]
+8:I[4581,[],""]
+9:"static/chunks/app/not-found-b4c2218fe2246209.js"
+a:I[388,["388","$3","345","$9"],"default"]
+e:"static/chunks/662-66245a6febb6eb85.js"
+f:"static/chunks/334-2696393ef4ff0c8c.js"
+10:"static/chunks/869-cb7aeac72ad78a66.js"
+11:"static/chunks/app/handouts/page-0286863657bf32dd.js"
+12:I[22,["435","$2","388","$3","439","$4","662","$e","334","$f","869","$10","115","$11"],"default"]
+13:I[484,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[484,[],"$16"]
+19:"MetadataBoundary"
+1a:I[484,[],"$19"]
+1c:I[7123,[],"default",1]
+:HL["/_next/static/css/d33ae8dfb49623fb.css","style"]
+c:X
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{}],null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+b:[["children",{"s":"handouts","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+0:{"P":null,"c":["","handouts",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d33ae8dfb49623fb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(location.pathname==='/'&&!sessionStorage.getItem('deepseek-hero-assembly-seen')&&!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('hero-assemble')}catch(e){}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var t=localStorage.getItem('deepseek-course:text-size');if(t==='1'||t==='2')document.documentElement.dataset.textSize=t}catch(e){}"}}]]}],["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"page-container narrow-page empty-state","children":[["$","span",null,{"className":"eyebrow","children":"Материал не найден"}],["$","h1",null,{"children":"Вернёмся к маршруту."}],["$","p",null,{"children":"Возможно, адрес изменился. Ваш прогресс в этом браузере сохраняется."}],["$","$La",null,{"href":"/","className":"button primary","children":"Открыть курс"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xOYuGavS_BfT9WRZXyWcC"}
+c:C
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f8fb"}]]
+1d:I[6869,[],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"PDF-памятки — курс DeepSeek"}],["$","meta","1",{"name":"description","content":"Курс для начинающих: семь занятий примерно по часу, задания в настоящем DeepSeek — запросы, фото, документы и поиск."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/icon.svg?2e59880354e4f1be","type":"image/svg+xml","sizes":"any"}],["$","$L1d","4",{}]]

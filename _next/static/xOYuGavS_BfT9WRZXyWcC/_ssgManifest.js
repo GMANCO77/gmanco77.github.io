@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fhandouts\u002F[day]","\u002Flessons\u002F[day]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
